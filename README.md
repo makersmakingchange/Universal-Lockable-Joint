@@ -15,10 +15,11 @@ There is an optional larger handle that can be 3D printed as well. This version 
 Build instructions and design files can be found within the GitHub on this device page.
 
 # SKILLS REQUIRED
-Fine motor skills – Twisting bolt into place
-Gripping – Using tools
+- Fine motor skills 
+– Twisting bolt into place (Gripping) 
+– Using tools
 # TOOLS
-Mallet/Hammer (optional)
+- Mallet/Hammer (optional)
 # COMPONENTS
 1x - M10 x 70 Hex Bolt  - Link
 1x - M10 Hex Nut - Link
