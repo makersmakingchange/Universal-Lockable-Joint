@@ -3,9 +3,13 @@
 # Overview
 
 This is a low-cost 3D printable joint to be used in mounting assistive technology. The joint allows for 1/2 inch PVC pipes to be inserted in and allow movement in all degrees of freedom. This device is intended to work with other PAMS mounting devices to allow adjustable and lockable positioning in all directions.
+
 ![Joint_orange](https://user-images.githubusercontent.com/50347013/159358869-b89bd1d0-668b-4db4-84a0-f3d7a5e38b04.png)
 
 Once the PVC is placed into the lockable joint and then positioned in the desired location. Once the optimal mounting location is found the joint can be locked in place by turning the handle of the device. This locks all the directions of the device. This can be repositioned by simply loosening the handle and tightening once again.
+
+![adjustment](https://user-images.githubusercontent.com/50347013/159359503-ffc4967e-574c-43fd-9b01-c1f22934e81a.png)
+
 
 More info at:
 <Link to makers making change project page>
