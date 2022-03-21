@@ -16,8 +16,8 @@ Build instructions and design files can be found within the GitHub on this devic
 
 # SKILLS REQUIRED
 - Fine motor skills 
-– Twisting bolt into place (Gripping) 
-– Using tools
+- Twisting bolt into place (Gripping) 
+- Using tools
 # TOOLS
 - Mallet/Hammer (optional)
 # COMPONENTS
