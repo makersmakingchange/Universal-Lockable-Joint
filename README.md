@@ -21,30 +21,23 @@ Build instructions and design files can be found within the GitHub on this devic
 # TOOLS
 - Mallet/Hammer (optional)
 # COMPONENTS
-1x - M10 x 70 Hex Bolt  - Link
-1x - M10 Hex Nut - Link
-1x - M10 Flat Washer - Link
-1x - Rubber Washer - Link
+- 1x - M10 x 70 Hex Bolt  - Link
+- 1x - M10 Hex Nut - Link
+- 1x - M10 Flat Washer - Link
+- 1x - Rubber Washer - Link
 # 3D PRINTING
 
 All Components can be printed with no support at 20% infill with a 0.2 layer height.
 
-1x - Joint Handle
-
-1x - Left half of shell housing
-
-1x - Right half of shell housing
+- 1x - Joint Handle
+- 1x - Left half of shell housing
+- 1x - Right half of shell housing
 
 # Attribution
 
 University of Alberta Capstone Team:
-
-Matthew Brydges
-
-Bobby Li
-
-Stanley Lim
-
-Miguel Oliveira
-
-Marco Villegas
+- Matthew Brydges
+- Bobby Li
+- Stanley Lim
+- Miguel Oliveira
+- Marco Villegas
