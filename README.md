@@ -11,7 +11,7 @@ Once the PVC is placed into the lockable joint and then positioned in the desire
 ![adjustment](https://user-images.githubusercontent.com/50347013/159359503-ffc4967e-574c-43fd-9b01-c1f22934e81a.png)
 
 
-More info at:
+**More info at:**
 <Link to makers making change project page>
 <Link to Makers Making Change Forum>
 
