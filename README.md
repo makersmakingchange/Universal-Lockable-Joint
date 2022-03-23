@@ -12,8 +12,8 @@ Once the PVC is placed into the lockable joint and then positioned in the desire
 
 
 **More info at:**
-<Link to makers making change project page>
-<Link to Makers Making Change Forum>
+- <Link to makers making change project page>
+- <Link to Makers Making Change Forum>
 
 # Versions/Customization
 There is an optional larger handle that can be 3D printed as well. This version is better for individuals with reduced grip strength and allows more area to grab onto. If you are building this device for a request, ask the user if they want to try out the larger handle. The STL can be found in the "3D Print Files" folder above.
