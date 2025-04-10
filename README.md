@@ -1,4 +1,4 @@
-# Universal-Lockable-Joint
+# Universal Lockable Joint
 
 ## Overview
 
@@ -50,14 +50,9 @@ University of Alberta Capstone Team:
 - Marco Villegas
 
     
-## About Us
-<img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
+<!-- ABOUT MMC START -->
 
-Makers Making Change is an initiative of [Neil Squire](https://www.neilsquire.ca/), a Canadian non-profit that helps people with disabilities.
-
-We are committed to creating a network of volunteer makers who support people with disabilities in their communities through 3D printing assistive devices. Check out our library of free, open-source assistive technologies with parts and build instructions.
-
- - [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
+<!-- ABOUT MMC END -->
  - [GitHub](https://github.com/makersmakingchange)
  - [Thingiverse](https://www.thingiverse.com/makersmakingchange/about)
  - Twitter: [@makermakechange](https://twitter.com/makermakechange)
